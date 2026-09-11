@@ -1,0 +1,6 @@
+{
+  "name": "Khmer Text to Voice",
+  "description": "Natural text-to-speech generator for Khmer language with AI voices, tone customization, and audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
